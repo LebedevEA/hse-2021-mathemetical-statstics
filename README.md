@@ -1,2 +1,2 @@
-# hse-2021-mathmetical-statstics
+# Mathmetical statstics
 Mathematical statistics homeworks, HSE SPb 2021
